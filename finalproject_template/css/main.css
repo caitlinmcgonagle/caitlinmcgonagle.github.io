@@ -1,0 +1,64 @@
+body {
+  margin: 0px;
+  background-color: lightgrey;
+  font-family: Georgia, serif;
+}
+
+nav {
+  border-top: 8px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.sitemotto {
+  font-size: 15px;
+  font-family: Basier, sans-serif;
+  color: lightslategrey;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+article {
+  margin-top: 5%;
+  width: 100%;
+}
+
+.caption {
+  font-size: 12px;
+  font-style: italic;
+  color: lightslategray;
+  text-align: right;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+.float-end {
+  width: 50%;
+  margin: 10pxs;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
